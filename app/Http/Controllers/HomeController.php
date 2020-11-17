@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\HomeSearchRequest;
+use App\Http\Request\HomeSearchRequest;
 use Exception;
 
 class HomeController extends Controller
